@@ -1,0 +1,5 @@
+@use '../abstracts/variables';
+
+h1 {
+	color: variables.$text-color;
+}

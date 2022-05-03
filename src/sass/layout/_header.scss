@@ -1,0 +1,8 @@
+@use '../abstracts/variables' as vars;
+
+header {
+	padding: 20px;
+  text-align: center;
+	border-bottom: 2px dashed vars.$text-color;
+	font-family: Helvetica, 'sans-serif';
+}
